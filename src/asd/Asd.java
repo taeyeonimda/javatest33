@@ -8,6 +8,6 @@ public class Asd {
 		System.out.println("aaaaa");
 
 		System.out.println();
-
+		int a= 2;
 	}
 }
