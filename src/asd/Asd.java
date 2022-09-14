@@ -5,5 +5,6 @@ public class Asd {
 		System.out.println();
 		System.out.println("ASDSADDS");
 		System.out.println();
+		int a =1;
 	}
 }
